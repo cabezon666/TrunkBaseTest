@@ -27,5 +27,4 @@ I’m [Your Name](https://github.com/your-github-username), an aspiring develope
 [LinkedIn](https://www.linkedin.com/in/eduwiese/)
 
 
-
 GIL WAS HERE!!!
